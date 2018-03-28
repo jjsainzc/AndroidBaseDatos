@@ -1,2 +1,1 @@
-"# AndroidBaseDatos" 
-"# AndroidBaseDatos" 
+Ejemplo de servidor de datos RESTfull, Webservice SOAP y Servlet, hecho para Glassfish 4.1.2, en Java Web Application, que incluye persistencia JPA, con exportaciones de datos en XML y JSON para ser usado desde aplicaciones moviles Android, como parte de capacitacion de consumo de servicios en Android  
